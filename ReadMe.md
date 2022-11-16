@@ -6,7 +6,7 @@ For that press `win + r` and type `cmd`. And check python version.
 ```
 python -V
 ```
-If python not installed then install python using this [link](https://www.python.org/downloads/).
+If python not installed then install python using this [link](https://www.python.org/downloads/). And also jupyter notebook using this [link](https://jupyter.org/install)
 ### STEP 1
 We will start by opening `cmd` and directing to folder where our dataset and model is. And type `jupyter notebook` to open notebook (assuming notebook is installed on your system) on your browser.<br/>
 
